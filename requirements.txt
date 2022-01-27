@@ -1,0 +1,16 @@
+astroid @ file:///tmp/build/80754af9/astroid_1628063140030/work
+black==21.11b1
+certifi==2021.10.8
+click==8.0.3
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+lazy-object-proxy @ file:///tmp/build/80754af9/lazy-object-proxy_1616529027849/work
+mccabe==0.6.1
+mypy-extensions==0.4.3
+pathspec==0.9.0
+platformdirs==2.4.0
+pygame==2.1.0
+pylint @ file:///tmp/build/80754af9/pylint_1627536788603/work
+regex==2021.11.10
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli==1.2.2
+wrapt @ file:///tmp/build/80754af9/wrapt_1607574498026/work
